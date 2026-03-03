@@ -6,12 +6,3 @@ Este proyecto corresponde a la **Práctica 2 de Acceso a Datos UD07**, donde se 
 ---
 Acceso a Swagger UI (Servidor desactivado)
 http://40.66.55.42/adt7_practica1/swagger-ui/index.html
-
-## Estructura del proyecto
-
-adt7_practica1/
-├── src/
-├── pom.xml
-├── README.md
-├── application-example.properties
-└── .gitignore
