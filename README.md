@@ -3,11 +3,11 @@
 
 Este proyecto corresponde a la **Práctica 2 de Acceso a Datos UD07**, donde se despliega una aplicación Spring Boot con MySQL en un servidor **Ubuntu** en **Microsoft Azure** usando **Tomcat 10**.
 
+---
+Acceso a Swagger UI
 http://40.66.55.42/adt7_practica1/swagger-ui/index.html
 
----
-
-## 📦 Estructura del proyecto
+## Estructura del proyecto
 
 adt7_practica1/
 ├── src/
@@ -21,7 +21,7 @@ adt7_practica1/
 
 ---
 
-## ⚙ Configuración de base de datos
+## Configuración de base de datos
 
 - **Base de datos:** MySQL
 - **Nombre:** `adt7_practica1`
@@ -65,5 +65,3 @@ FLUSH PRIVILEGES;
 sudo cp target/adt7_practica1.war /var/lib/tomcat10/webapps/
 sudo systemctl restart tomcat10
 ```
-🌐 Acceso a Swagger UI
-http://4.233.137.68:8080/adt7_practica1/swagger-ui/index.html
